@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello git 
 learn fit branches
+=======
+learn git branches
+this line was added in frature2
+>>>>>>> 2ed502db115453519788a5ae790ee2fb5f2560d0
